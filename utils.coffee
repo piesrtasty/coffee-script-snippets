@@ -91,37 +91,4 @@ class Dictionary
 	each: (action) ->
 		for own property, value of @values
 			action property, value
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+			
